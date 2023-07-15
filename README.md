@@ -2,7 +2,10 @@
 
 ### Connect with me:
 
-- LinkedIn: [linkedin.com/in/karthik-ravichandran-289835109](linkedin.com/in/karthik-ravichandran-289835109)
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://linkedin.com/in/karthik-ravichandran-289835109)
+[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />](https://github.com/Karthik-R-1703)
+<a href="mailto:karthikr.1703@gmail.com"><img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/mail.svg" /></a>
+
 <br>
 
 ### Languages and Tools:
