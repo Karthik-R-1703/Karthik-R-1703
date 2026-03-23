@@ -50,6 +50,15 @@ I'm a software developer based in Chennai, India, with a passion for building sc
 
 ---
 
+### 🧠 What I'm Learning
+
+- 🦀 **Rust** — Systems programming with memory safety, CLI tools, and WebAssembly
+- ☁️ **Cloud Architecture** — Distributed systems, container orchestration, serverless patterns
+- 🤖 **AI / ML** — LLM integration, prompt engineering, AI-assisted development workflows
+- 🌐 **Advanced Go** — Concurrency patterns, performance profiling, production microservices
+
+---
+
 ### ✍️ Writing & Resources
 
 - 📘 [LeetCode Solutions](https://github.com/Karthik-R-1703/LeetCode) — Competitive programming solutions covering arrays, DP, trees, and more
@@ -60,7 +69,7 @@ I'm a software developer based in Chennai, India, with a passion for building sc
 
 ### Projects
 
-- **[UnitConversion](https://github.com/Karthik-R-1703/UnitConversion)** — A responsive web app for converting between units of Length, Area, Weight, Data Size, Temperature, and Number Systems. Built with HTML, CSS, and JavaScript.
+- **[UnitConversion](https://github.com/Karthik-R-1703/UnitConversion)** — A responsive web app for converting between units of Length, Area, Weight, Data Size, Temperature, and Number Systems. Built with HTML, CSS, and JavaScript. [Live Demo](https://karthik-r-1703.github.io/UnitConversion/)
 - **[LeetCode](https://github.com/Karthik-R-1703/LeetCode)** — Solutions to LeetCode problems in C#. Covers arrays, strings, dynamic programming, trees, and more.
 - **[GeeksForGeeks](https://github.com/Karthik-R-1703/GeeksForGeeks)** — Practice solutions for GeeksForGeeks problems across data structures and algorithms.
 

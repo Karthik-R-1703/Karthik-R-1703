@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://karthik-r-1703.github.io/Karthik-R-1703/sitemap.xml

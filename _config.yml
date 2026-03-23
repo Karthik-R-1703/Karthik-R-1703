@@ -1,0 +1,44 @@
+# Site settings
+title: karthik r — developer
+description: >-
+  Software Developer at ZOHO Corporation. 6+ years building secure,
+  high-performance backend systems. Based in Chennai, India.
+url: "https://karthik-r-1703.github.io"
+baseurl: "/Karthik-R-1703"
+
+# Author
+author:
+  name: Karthik R
+  url: https://karthik-r-1703.github.io/Karthik-R-1703/
+  email: karthikr1703@gmail.com
+
+# Social
+social:
+  name: Karthik R
+  links:
+    - https://github.com/Karthik-R-1703
+    - https://linkedin.com/in/karthik-ravichandran-289835109
+    - https://stackoverflow.com/users/10383699
+
+# Open Graph
+logo: /og-image.svg
+image: /og-image.svg
+twitter:
+  card: summary
+
+# Plugins (supported by GitHub Pages)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - Resume.md
+  - "*.docx"
+  - .github/
+  - node_modules/
+  - vendor/

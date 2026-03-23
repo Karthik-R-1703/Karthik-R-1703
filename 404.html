@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 — not found</title>
+  <meta name="theme-color" content="#000" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#f5f5f0" media="(prefers-color-scheme: light)">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='80' font-family='monospace' fill='white'>K</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #000; --text: #fff; --text-muted: #888; --text-dim: #666;
+      --border: #181818; --accent: #4ade80;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #f5f5f5; --text: #111; --text-muted: #555; --text-dim: #777;
+        --border: #ddd; --accent: #16a34a;
+      }
+    }
+    body {
+      font-family: 'Fira Code', monospace;
+      background: var(--bg); color: var(--text);
+      min-height: 100vh; display: flex; align-items: center; justify-content: center;
+      text-align: center; padding: 2rem;
+    }
+    .container { max-width: 500px; }
+    h1 { font-size: clamp(4rem, 10vw, 8rem); font-weight: 800; letter-spacing: -3px; line-height: 1; margin-bottom: 1rem; }
+    p { color: var(--text-muted); font-size: 1rem; margin-bottom: 2rem; line-height: 1.6; }
+    a {
+      display: inline-block; padding: .7rem 1.8rem; background: var(--text);
+      color: var(--bg); border-radius: 6px; text-decoration: none;
+      font-family: inherit; font-size: .9rem; font-weight: 600; transition: opacity .2s;
+    }
+    a:hover { opacity: .85; }
+    .label { font-size: .75rem; text-transform: uppercase; letter-spacing: 2px; color: var(--text-dim); margin-bottom: .5rem; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="label">error</div>
+    <h1>404</h1>
+    <p>this page doesn't exist. it may have been moved, or you followed a broken link.</p>
+    <a href="./">back to home &rarr;</a>
+  </div>
+</body>
+</html>
